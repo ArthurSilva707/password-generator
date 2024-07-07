@@ -60,12 +60,12 @@ src/
 
 1. Clone o repositório para o seu ambiente local:
     ```sh
-    git clone https://github.com/seu-usuario/projeto-senhas-qrcode.git
+    git clone https://github.com/ArthurSilva707/password-generator.git
     ```
 
 2. Navegue até o diretório do projeto:
     ```sh
-    cd projeto-senhas-qrcode
+    cd password-generator 
     ```
 
 3. Instale as dependências:
